@@ -1,0 +1,5 @@
+emp_id|name|salary
+101|Rohit|20000.0
+102|Samir|52000.0
+103|Nitesh|37000.0
+104|Rupesh|44000.0

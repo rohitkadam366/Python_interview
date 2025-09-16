@@ -1,0 +1,159 @@
+https://github.com/PragatiVerma18/DRF-Interview-Prep/blob/master/django-celery-redis-interview-questions.md
+
+https://www.vskills.in/interview-questions/fastapi-interview-questions
+https://www.wecreateproblems.com/interview-questions/django-interview-questions
+
+Django:
+
+1. What is Django and what are its key features?
+
+2. Explain the MTV (Model-Template-View) architecture pattern in Django.
+
+3. What is a Django project and how is it different from a Django app?
+
+4. Describe the purpose of the settings.py file in a Django project.
+
+5. What is the role of the urls.py file in a Django project?
+
+6. Explain the concept of Django's ORM (Object-Relational Mapping).
+
+7. What is a Django model and how is it defined?
+
+8. Describe the purpose of Django's admin interface.
+
+What is a Django view and how is it created?
+
+10. Explain the concept of URL patterns in Django.
+
+
+11. What is a database migration in Django and why is it important?
+
+12. Explain the difference between a Foreignkey and a ManyToMany Field in Django models.
+
+13. How do you define a custom model field in Django?
+
+14. What is a QuerySet in Django and how is it used?
+
+15. Describe the concept of model inheritance in Django.
+
+16. What is a Django model manager and how is it used?
+
+17. Explain the purpose of the Meta class in Django models.
+
+18. How do you perform database queries using Django's ORM?
+
+19. What is the difference between select related() and prefetch_related() in Django queries?
+
+20. Describe the concept of database transactions in Django.
+
+
+21. What is a Django template and how is it rendered?
+
+22. Explain the concept of context in Django templates.
+
+23. How do you pass data from a view to a template in Django?
+
+24. What are Django template tags and filters?
+
+25. Describe the purpose of the (% block %) tag in Django templates.
+
+26. What is a Django form and how is it created?
+
+27. Explain the difference between a function-based view and a class-based view in Django.
+
+28. How do you handle file uploads in Django views?
+
+29. What is the purpose of the @login_required decorator in Django views?
+
+30. Describe the concept of view inheritance in Django.
+
+
+
+31. What is URL routing in Django and how is it configured?
+
+32. Explain the concept of named URL patterns in Django.
+
+33. How do you capture URL parameters in Django views?
+
+34. What is Django middleware and how is it used?
+
+35. Describe the purpose of the CSRF middleware in Django.
+
+36. What is the difference between process_request() and process_response() in Django middleware?
+
+37. How do you create a custom middleware in Django?
+
+38. Explain the concept of URL namespaces in Django.
+
+39. What is the purpose of the include() function in Django URL configuration?
+
+40. Describe the concept of URL redirection in Django.
+
+
+
+41. What is the Django authentication system and how does it work?
+
+42. Explain the difference between authentication and authorization in Django.
+
+43. How do you create a custom user model in Django?
+
+44. What is the purpose of the @permission_required decorator in Django views?
+
+45. Describe the concept of user sessions in Django.
+
+46. What is the role of the Django User model?
+
+47. Explain the purpose of the login() and logout() functions in Django authentication.
+
+48. How do you implement password reset functionality in Django?
+
+49 What is the difference between the is authenticated and is anonymous attributes of a Django user?
+
+50. Describe the concept of user groups and permissions in Django
+
+
+
+. What is the Django testing framework and how is it used?
+
+52. Explain the difference between unit tests and integration tests in Django.
+
+53. How do you create a test case in Django?
+
+54. What is the purpose of the assertContains() method in Django testing?
+
+55. Describe the concept of test fixtures in Django.
+
+56. What is the Django debug toolbar and how is it used?
+
+57. Explain the purpose of the Django logging framework.
+
+58. How do you handle exceptions and errors in Django views?
+
+59. What is the difference between the DEBUG and ALLOWED_HOSTS settings in Django?
+
+60. Describe the concept of Django test client and its usage.
+
+
+
+61. What are the steps involved in deploying a Django application?
+
+62. Explain the concept of WSGI (Web Server Gateway Interface) in Django deployment.
+
+63. How do you handle static files in a Django production environment?
+
+64. What is Django caching and how is it implemented?
+
+65. Describe the concept of load balancing in Django deployment.
+
+66. What is the purpose of the Django security middleware?
+
+67. Explain the concept of database connection pooling in Django
+
+68. How do you optimize Django database queries for better performance?
+
+6. What is the role of a reverse proxy server in Django deployment?
+
+70. Describe the concept of horizontal scaling in Django applications
+
+
+

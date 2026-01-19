@@ -1,0 +1,25 @@
+list1 = [1,1,2,3,3,3,3,3]
+
+dict1 = {}
+max_count = 0
+char = None
+
+for num in list1:
+    # if num not in dict1:
+    #     dict1[num] = 1
+    # else:
+    #     dict1[num] +=1
+    
+    dict1[num] = dict1.get(num,0) + 1
+    
+    if dict1[num] > max_count:
+        max_count = dict1[num]
+        char = num
+        
+print(char)
+        
+        
+
+
+
+
